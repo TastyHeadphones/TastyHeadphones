@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TastyHeadphones&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### Hi there 👋
+### Hi there 👋 I am looking for an iOS Junior Eng job expecting 1200$ per month
 
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for an iOS eng job
