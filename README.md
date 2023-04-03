@@ -5,5 +5,5 @@
 - 🌱 I have knowledge of unit testing and UI testing, and have worked as an iOS developer for half a year at Linkedin.
 - 🤔 I have some understanding of network requests, and familiar with Combine concurrency.
 - 💻 I am skilled in embedded development, Linux operation, and writing Python scripts.
-- 📧 taheadphones@outlook.com
+- 📧 tastyheadphones@icloud.com
 
