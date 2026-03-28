@@ -47,5 +47,3 @@ I am an iOS engineer focused on Apple-platform applications, offline and local-f
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TastyHeadphones&bg_color=ffffff00&color=64748b&line=2563eb&point=38bdf8&area=true&hide_border=true" alt="Contribution graph" />
 </p>
-
-Open to iOS opportunities in Japan.
